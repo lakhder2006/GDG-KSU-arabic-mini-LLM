@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+
+# Large files: keep these on Drive / HuggingFace, not GitHub
+data/raw/
+data/processed/
+*.csv
+*.jsonl
+*.parquet
+checkpoints/
+*.pt
+*.pth
+*.bin
+*.safetensors
+wandb/
+runs/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/

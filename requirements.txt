@@ -1,0 +1,12 @@
+# Starter requirements. Exact versions will be pinned once the training
+# code and config are final (see CONTRIBUTING.md).
+torch
+transformers
+datasets
+tokenizers
+accelerate
+sentencepiece
+huggingface_hub
+tqdm
+numpy
+pandas
