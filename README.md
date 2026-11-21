@@ -1,0 +1,1 @@
+# GDG-KSU-arabic-mini-LLM
